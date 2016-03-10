@@ -4,7 +4,7 @@
     关于我，欢迎关注~
  [我的博客](http://blog.csdn.net/u011974987) 
 * 项目描述：
-    字距为任何字符串的TextView,设置文本间距,在网上找了许多方法都不可行，就弄个笔记记录下来，方便以后使用。放在[GitHub](https://github.com/git-xuhao/SwitchLanguage) 上面了。
+    字距为任何字符串的TextView,设置文本间距,在网上找了许多方法都不可行，就弄个笔记记录下来，方便以后使用。放在[GitHub](https://github.com/git-xuhao) 上面了。
 
 * 本Demo效果截图示例如下：
 

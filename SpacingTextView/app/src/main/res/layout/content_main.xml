@@ -15,6 +15,7 @@
     <com.woyou.spacingtextview.SpacingTextView
         android:id="@+id/space_text"
         android:layout_width="wrap_content"
+        android:lineSpacingExtra="13dp"
         android:layout_height="wrap_content"
         android:text="@string/test" />
 </RelativeLayout>

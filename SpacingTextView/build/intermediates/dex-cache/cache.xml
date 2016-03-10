@@ -2,60 +2,60 @@
 <items version="2" >
 
     <item
-        jar="E:\workprojects\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jar="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
-        <dex dex="E:\workprojects\SpacingTextView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_23880f00f9d85989dbd41224ba1930d4d423c374.jar" />
+        <dex dex="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_1abc05840026f9e72bc43f70322ed114eed11efe.jar" />
     </item>
     <item
-        jar="E:\workprojects\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
-        <dex dex="E:\workprojects\SpacingTextView\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_4454f5843a698f3f601c4bbf2f50b88e84680601.jar" />
-    </item>
-    <item
-        jar="E:\workprojects\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
-        <dex dex="E:\workprojects\SpacingTextView\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_61f629783593be6df737ffb5301ebe5c8de95256.jar" />
-    </item>
-    <item
-        jar="E:\workprojects\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jar="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="E:\workprojects\SpacingTextView\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_b333d91dd83bed26ff946beb189e366794245f13.jar" />
-    </item>
-    <item
-        jar="E:\workprojects\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="292a9fa091757208efa65e77eef63088247e51f3">
-        <dex dex="E:\workprojects\SpacingTextView\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_15eda1cd17866d56a574b512063c772c2bb81773.jar" />
+        <dex dex="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_729daaa7b1cc694b79c9e84e672b45d5544e077b.jar" />
     </item>
     <item
         jar="F:\android-sdk\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
-        <dex dex="E:\workprojects\SpacingTextView\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_b2e21f812c454fe5c17f69eba27fdd07d309b59e.jar" />
+        <dex dex="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_b2e21f812c454fe5c17f69eba27fdd07d309b59e.jar" />
     </item>
     <item
-        jar="E:\workprojects\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jar="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
-        <dex dex="E:\workprojects\SpacingTextView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_4d15006c6075d77caaac78c891b1626e173c2f2a.jar" />
+        <dex dex="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_69aab9dd3d38c74f73561082309f50f61f877cb2.jar" />
     </item>
     <item
-        jar="E:\workprojects\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jar="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_a2a17c917d5293cce73f029e7a47d4b8b505651f.jar" />
+    </item>
+    <item
+        jar="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
-        <dex dex="E:\workprojects\SpacingTextView\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_f85fc44960b74edd9327eb2cfb1b7f595c3195ad.jar" />
+        <dex dex="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_276f1d45c14a00d6a82caa7aadd3e5180f3419e9.jar" />
+    </item>
+    <item
+        jar="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_01130346776b0e93c0370031ddebfc737113997a.jar" />
+    </item>
+    <item
+        jar="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="E:\Users\GitHubProjects\SpacingTextView\SpacingTextView\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_dbe38fde5e864195426b3fa4223548035f1348a3.jar" />
     </item>
 
 </items>
